@@ -15,3 +15,4 @@ Connect.enable ()
 
 to_Issue = "Show vlan brief"
 print(Connect.send_command(to_Issue))
+print ("ajout commit")
